@@ -5,3 +5,5 @@ this is test3
 本地先commit 然後推不了
 this is test1// 測試改同一行 這是遠端 //這是本地端  解決衝突
 測試 這是遠端先修改  本地commit後會發現推不上去
+
+另一測試 本地修改 先commit 遠端有人推另一支 merge後 別人推的那隻是否還在!?
