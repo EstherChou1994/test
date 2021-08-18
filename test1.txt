@@ -3,4 +3,4 @@ bbbccc
 bbbccc
 this is test3
 this is test1// 測試改同一行 這是遠端 //這是本地端  解決衝突
-
+測試 這是遠端先修改  本地commit後會發現推不上去
